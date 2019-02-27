@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="about">
+        <![CDATA[<b>Quick Reminders:</b>
+        <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
+        <br/><br/><b>Designed &amp; Developed By:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/><br/><b>Translations By:</b>
+        <br/>\u2022 G Alarco/@guillerag - Spanish
+	    <br/>\u2022 Sérgio Neto - Portuguese
+	    <br/>\u2022 Star Walking - Thai
+        <br/><br/><b>Quick Tip\'s:</b>
+        <br/>\u2022 Create a high priority reminder to show an icon in the status bar.
+        <br/>\u2022 Low priority notifications are fully collapsible.
+        <br/>\u2022 Sticky notifications cannot be accidentally swiped away.
+        <br/>\u2022 Schedule a notification to appear at a specific time.
+        <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
+    <string name="close">Abbrechen</string>
+    <string name="rate_app">Bewerten Sie</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="send_report">Crash Report\nSenden</string>
+    <string name="close_app">Clear\nError</string>
+    <string name="oops_error">Oops.... Sieht so aus, als ob etwas schief gelaufen wäre &amp; Quick Reminders Crashed! \n\n\nsorry for the unconvenience.</string>
+    <string name="dismiss">Verwerfen</string>
+    <string name="newRem">Neue Notiz</string>
+    <string name="sticky">Haftnotiz-Benachrichtigung</string>
+    <string name="remind_max">Erinnerung (%01d/400)</string>
+    <string name="tile_max">Titel (%01d/32)</string>
+    <string name="random_colour">Zufällige Highlight-Farbe</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="notifs_off">Quick Reminder-Benachrichtigungen sind deaktiviert.  Klicken Sie hier, um zu den Einstellungen zu gelangen und sie wieder zu aktivieren.</string>
+    <string name="email_feedback">Rückmel</string>
+    <string name="desc_notif">Benachrichtigung mit hoher Priorität.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="custom_highlight">Eigene Highlight-Farbe</string>
+    <string name="options">Optionen</string>
+    <string name="tap_centre">Tippen Sie auf Mitte zur Bestätigung</string>
+    <string name="select">Wählen Sie Highlight-Farbe</string>
+    <string name="high_priority">Hohe Priorität</string>
+    <string name="low_priority">Niedrige Priorität</string>
+    <string name="max_lines_ex">Max zeilen überschritten</string>
+    <string name="set_text">Inhalt Hervorheben Text</string>
+    <string name="active_reminders">Aktive Erinnerungen</string>
+    <string name="non_scheduled">Keine Aktiven Erinnerungen</string>
+    <string name="delete">Löschen</string>
+    <string name="reminder_lost">Alarm</string>
+    <string name="reminder_editing">Die Erinnerung geht verloren, wenn Sie nicht auf Speichern klicken.</string>
+    <string name="back">Zurückgehen</string>
+    <string name="group">Meldungen zusammenfassen</string>
+    <string name="re_use">Vorherige Zeit verwenden?</string>
+    <string name="new_time">Neue Zeit</string>
+    <string name="active">Aktiv</string>
+    <string name="no_app_speech">Keine Anwendung zur Spracherkennung installiert</string>
+</resources>

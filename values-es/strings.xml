@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="about">
+        <![CDATA[<b>Quick Reminders:</b>
+        <br/>\u2022Notas y Recordatorios para el panel desplegable de notificaciones.
+        <br/><br/><b>Diseñado y Desarrollado por:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/><br/><b>Traducciones por:</b>
+        <br/>\u2022 G Alarco/@guillerag - Spanish
+	    <br/>\u2022 Sérgio Neto - Portuguese
+	    <br/>\u2022 Star Walking - Thai
+        <br/><br/><b>Consejos rápidos:</b>
+        <br/>\u2022 Crea un recordatorio de alta prioridad para mostrar un icono en la barra de estado.
+        <br/>\u2022 Las notificaciones de baja prioridad son compactas.
+        <br/>\u2022 Las notificaciones permanentes no pueden ser borradas accidentalmente.
+        <br/>\u2022 Programa una notificación para que aparezca a una hora específica.
+        <br/><br/>No dudes en contactar conmigo directamente y no te olvides de dejar un comentario&#128512;]]></string>
+    <string name="close">Cerrar</string>
+    <string name="rate_app">Puntúame</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="send_report">Enviar error\nInforme</string>
+    <string name="close_app">Borrar\nError</string>
+    <string name="oops_error"><![CDATA[Vaya… parece que algo salió mal & Quick Reminders ha dejado de funcionar\n\n\nDisculpa las molestias.]]></string>
+    <string name="dismiss">Descartar</string>
+    <string name="newRem">Nuevo</string>
+    <string name="sticky">Notificación permanente</string>
+    <string name="remind_max">Recordatorio (%01d/400)</string>
+    <string name="tile_max">Título (%01d/32)</string>
+    <string name="random_colour">Color de realce aleatorio</string>
+    <string name="edit">Editar</string>
+    <string name="notifs_off">Las notificaciones están deshabilitadas. Presiona aquí para ir a la configuración y volver a habilitarlas.</string>
+    <string name="email_feedback">Feedback</string>
+    <string name="desc_notif">Notificación de alta prioridad</string>
+    <string name="cancel">Cancelar</string>
+    <string name="custom_highlight">Color de realce personalizado</string>
+    <string name="options">Opciones</string>
+    <string name="tap_centre">Pulsar en el centro para confirmar</string>
+    <string name="select">Seleccionar color de realce a aplicar</string>
+    <string name="high_priority">Alta Prioridad</string>
+    <string name="low_priority">Baja Prioridad</string>
+    <string name="max_lines_ex">Líneas excedidas</string>
+    <string name="set_text">Color de realce en contenido</string>
+    <string name="active_reminders">Recordatorios activos</string>
+    <string name="non_scheduled">No hay recordatorios activos</string>
+    <string name="delete">Borrar</string>
+    <string name="reminder_lost">Alerta</string>
+    <string name="reminder_editing">El recordatorio se perderá si no presiona en Guardar</string>
+    <string name="back">Volver atrás</string>
+    <string name="group">Agrupar Notificaciones</string>
+    <string name="re_use">¿Usar hora anterior?</string>
+    <string name="new_time">Nueva Hora</string>
+    <string name="active">Activo</string>
+    <string name="no_app_speech">No hay ninguna aplicación instalada para manejar el reconocimiento de voz</string>
+</resources>

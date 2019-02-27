@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="about">
+        <![CDATA[<b>Quick Reminders</b>
+        <br/>\u2022Notas de alfinete e Lembretes para a barra de notificação.
+        <br/><br/><b>Designed e Desenvolvido por:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/><br/><b>Traduzido por:</b>
+        <br/>\u2022 G Alarco/@guillerag - Spanish
+	    <br/>\u2022 Sérgio Neto - Portuguese
+	    <br/>\u2022 Star Walking - Thai
+        <br/><br/><b>Dicas rápidas:</b>
+        <br/>\u2022 Crie um lembrete de alta prioridade para mostrar um ícone na barra de status.
+        <br/>\u2022 Notificações de baixa prioridade são totalmente redimensionáveis.
+        <br/>\u2022 As notificações fixas não podem ser removidas acidentalmente.
+        <br/>\u2022 Programe uma notificação para aparecer em um horário especifico.
+        <br/><br/>Sinta-se à vontade para entrar em contato diretamente comigo e não se esqueça de deixar um comentário &#128512;]]></string>
+    <string name="close">Fechar</string>
+    <string name="rate_app">Avalie</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="send_report">Enviar Erro \ Reportar</string>
+    <string name="close_app">Limpar Erro</string>
+    <string name="oops_error">Oops… parece que algo deu errado, A aplicação Lembretes Rápidos fechou!\n\n\nDesculpe pelo inconveniente.</string>
+    <string name="dismiss">Dispensar</string>
+    <string name="newRem">Novo lembrete</string>
+    <string name="sticky">Afixar Notificação</string>
+    <string name="remind_max">Lembrete (%01d/400)</string>
+    <string name="tile_max">Título (%01d/32)</string>
+    <string name="random_colour">Cor de Realce aleatório</string>
+    <string name="edit">Editar</string>
+    <string name="notifs_off">As notificações de lembretes rápidos estão desativadas. Clique aqui para acessar as configurações para puder reativá-las.</string>
+    <string name="email_feedback">Comentário</string>
+    <string name="desc_notif">Notificação de alta prioridade.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="custom_highlight">Cor de Destaque personalizado</string>
+    <string name="options">Opções</string>
+    <string name="tap_centre">Toque no centro para confirmar</string>
+    <string name="select">Selecione Cor de destaque</string>
+    <string name="high_priority">Prioridade máxima</string>
+    <string name="low_priority">Baixa prioridade</string>
+    <string name="max_lines_ex">Linhas Máximas Excedidas</string>
+    <string name="set_text">Destaque o conteúdo do texto</string>
+    <string name="non_scheduled">Nenhum lembrete ativo</string>
+    <string name="active_reminders">Lembretes ativos</string>
+    <string name="delete">Excluir</string>
+    <string name="reminder_lost">Alerta</string>
+    <string name="reminder_editing">O lembrete será  perdido se você não clicar em salvar.</string>
+    <string name="back">Voltar atrás</string>
+    <string name="group">Notificações de grupos</string>
+    <string name="re_use">Usar o horário anterior?</string>
+    <string name="new_time">Novo tempo</string>
+    <string name="active">Ativo</string>
+    <string name="no_app_speech">Nenhum aplicativo instalado para lidar com reconhecimento de fala</string>
+</resources>

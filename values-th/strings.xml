@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="about">
+        <![CDATA[<b>Quick Reminders:</b>
+        <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
+        <br/><br/><b>Designed &amp; Developed By:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/><br/><b>Translations By:</b>
+        <br/>\u2022 G Alarco/@guillerag - Spanish
+	    <br/>\u2022 Sérgio Neto - Portuguese
+	    <br/>\u2022 Star Walking - Thai
+        <br/><br/><b>Quick Tip\'s:</b>
+        <br/>\u2022 Create a high priority reminder to show an icon in the status bar.
+        <br/>\u2022 Low priority notifications are fully collapsible.
+        <br/>\u2022 Sticky notifications cannot be accidentally swiped away.
+        <br/>\u2022 Schedule a notification to appear at a specific time.
+        <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
+    <string name="close">ปิด</string>
+    <string name="rate_app">ให้คะแนนฉัน</string>
+    <string name="no">ไม่</string>
+    <string name="yes">ใช่</string>
+    <string name="send_report">ส่งรายงานข้อขัดข้อง\nรายงาน</string>
+    <string name="close_app">ล้าง\nผิดพลาด</string>
+    <string name="oops_error">อ๊ะ .. ดูเหมือนว่ามีบางอย่างผิดพลาด &amp; Quick Reminders ขัดข้อง!\n\n\nขออภัยในความไม่สะดวก</string>
+    <string name="dismiss">ยกเลิก</string>
+    <string name="newRem">การแจ้งเตือนใหม่</string>
+    <string name="sticky">การแจ้งเตือนที่เข้มงวด</string>
+    <string name="remind_max">การแจ้งเตือน (%01d/400)</string>
+    <string name="tile_max">หัวข้อ (%01d/32)</string>
+    <string name="random_colour">สีไฮไลต์แบบสุ่ม</string>
+    <string name="edit">แก้ไข</string>
+    <string name="notifs_off">การแจ้งเตือนด่วนถูกปิดใช้งาน คลิกที่นี่เพื่อไปที่การตั้งค่าและเปิดใช้งานอีกครั้ง</string>
+    <string name="email_feedback">ข้อเสนอแนะ</string>
+    <string name="desc_notif">แจ้งเตือนความสำคัญสูง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="custom_highlight">สีไฮไลต์ที่กำหนดเอง</string>
+    <string name="options">ตัวเลือก</string>
+    <string name="tap_centre">แตะศูนย์เพื่อยืนยัน</string>
+    <string name="select">เลือกสีไฮไลต์</string>
+    <string name="high_priority">ความสำคัญสูง</string>
+    <string name="low_priority">ลำดับความสำคัญต่ำ</string>
+    <string name="max_lines_ex">เกินจำนวนสายแล้ว</string>
+    <string name="set_text">เน้นเนื้อหาข้อความ</string>
+    <string name="non_scheduled">ไม่มีการแจ้งเตือนที่ใช้งานอยู่</string>
+    <string name="active_reminders">การแจ้งเตือนที่ใช้งานอยู่</string>
+    <string name="delete">ลบ</string>
+    <string name="reminder_lost">เตือน</string>
+    <string name="reminder_editing">การแจ้งเตือนจะหายไปหากคุณไม่คลิกบันทึก</string>
+    <string name="back">กลับไป</string>
+    <string name="group">การแจ้งเตือนกลุ่ม</string>
+    <string name="re_use">ใช้เวลาก่อนหน้านี้หรือไม่?</string>
+    <string name="new_time">เวลาใหม่</string>
+    <string name="active">คล่องแคล่ว</string>
+    <string name="no_app_speech">ไม่ได้ติดตั้งแอปพลิเคชันเพื่อจัดการจดจำเสียงพูด</string>
+</resources>

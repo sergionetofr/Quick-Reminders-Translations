@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="about">
+        <![CDATA[<b>Quick Reminders:</b>
+        <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
+        <br/><br/><b>Designed &amp; Developed By:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/><br/><b>Translations By:</b>
+        <br/>\u2022 G Alarco/@guillerag - Spanish
+	    <br/>\u2022 Sérgio Neto - Portuguese
+	    <br/>\u2022 Star Walking - Thai
+        <br/><br/><b>Quick Tip\'s:</b>
+        <br/>\u2022 Create a high priority reminder to show an icon in the status bar.
+        <br/>\u2022 Low priority notifications are fully collapsible.
+        <br/>\u2022 Sticky notifications cannot be accidentally swiped away.
+        <br/>\u2022 Schedule a notification to appear at a specific time.
+        <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
+    <string name="close">Close</string>
+    <string name="rate_app">Rate Me</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="send_report">Send Crash\nReport</string>
+    <string name="close_app">Clear\nError</string>
+    <string name="oops_error">Oops.. looks like something went wrong &amp; Quick Reminders Crashed!\n\nSorry for the inconvenience.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="newRem">New Reminder</string>
+    <string name="sticky">Sticky Notification</string>
+    <string name="remind_max">Reminder (%01d/400)</string>
+    <string name="tile_max">Title (%01d/32)</string>
+    <string name="random_colour">Random Highlight Colour</string>
+    <string name="edit">Edit</string>
+    <string name="notifs_off">Quick Reminders notifications are disabled.  Click here to go to settings and re-enable them.</string>
+    <string name="email_feedback">Feedback</string>
+    <string name="desc_notif">High priority notification.</string>
+    <string name="cancel">Cancel</string>
+    <string name="custom_highlight">Custom Highlight Colour</string>
+    <string name="options">Options</string>
+    <string name="tap_centre">Tap Centre To Confirm</string>
+    <string name="select">Select Highlight Colour</string>
+    <string name="high_priority">High Priority</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="max_lines_ex">Max Lines Exceeded</string>
+    <string name="set_text">Highlight Contents Text</string>
+    <string name="non_scheduled">No Active Reminders</string>
+    <string name="active_reminders">Active Reminders</string>
+    <string name="delete">Delete</string>
+    <string name="reminder_lost">Alert</string>
+    <string name="reminder_editing">Reminder will be lost if you do not click save.</string>
+    <string name="back">Go Back</string>
+    <string name="group">Group Notifications</string>
+    <string name="re_use">Use Previous Time?</string>
+    <string name="new_time">New Time</string>
+    <string name="active">Active</string>
+    <string name="no_app_speech">No application installed to handle speech recognition</string>
+    <string name="reoccurence">Reoccurence</string>
+    <string name="re_ocurrence">Re-Occurrence</string>
+</resources>

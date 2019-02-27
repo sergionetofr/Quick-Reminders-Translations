@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mdcolor_500">
+        <item>#f44336</item>
+        <item>#e91e63</item>
+        <item>#8e24aa</item>
+        <item>#673ab7</item>
+        <item>#3f51b5</item>
+        <item>#304ffe</item>
+        <item>#2196f3</item>
+        <item>#00BCD4</item>
+        <item>#00bfa5</item>
+        <item>#00e676</item>
+        <item>#8bc34a</item>
+        <item>#CDDC39</item>
+        <item>#ffea00</item>
+        <item>#ff9800</item>
+        <item>#37474f</item>
+        <item>#f44336</item>
+        <item>#9e9e9e</item>
+        <item>#01579b</item>
+    </array>
+    <array name="reoccur_entries" >
+        <item>Once</item>
+        <item>Hourly</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </array>
+</resources>
