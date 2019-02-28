@@ -54,6 +54,6 @@
     <string name="no_app_speech">Brak zainstalowanej aplikacji do obsługi rozpoznawania mowy</string>
     <string name="recurrence">Powtórzenie</string>
     <string name="schedule">Harmonogram</string>
-    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
     <string name="set_non_stick">Set Not Sticky?</string>
+    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
 </resources>
