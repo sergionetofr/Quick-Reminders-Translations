@@ -21,11 +21,11 @@
         <item>#01579b</item>
     </array>
     <array name="reoccur_entries" >
-        <item>Once</item>
-        <item>Every Minute</item>
-        <item>Hourly</item>
-        <item>Daily</item>
-        <item>Weekly</item>
-        <item>Monthly</item>
+        <item>Raz</item>
+        <item>Co Minutę</item>
+        <item>Godzinę</item>
+        <item>Dziennie</item>
+        <item>Tygodniowo</item>
+        <item>Miesięcznie</item>
     </array>
 </resources>
