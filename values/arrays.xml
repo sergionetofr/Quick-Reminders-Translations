@@ -22,6 +22,7 @@
     </array>
     <array name="reoccur_entries" >
         <item>Once</item>
+        <item>Every Minute</item>
         <item>Hourly</item>
         <item>Daily</item>
         <item>Weekly</item>

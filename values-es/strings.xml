@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
         <br/>\u2022Notas y Recordatorios para el panel desplegable de notificaciones.
@@ -52,4 +51,6 @@
     <string name="new_time">Nueva Hora</string>
     <string name="active">Activo</string>
     <string name="no_app_speech">No hay ninguna aplicación instalada para manejar el reconocimiento de voz</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="schedule">Schedule</string>
 </resources>

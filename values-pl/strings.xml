@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
         <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
@@ -52,6 +51,6 @@
     <string name="new_time">New Time</string>
     <string name="active">Active</string>
     <string name="no_app_speech">No application installed to handle speech recognition</string>
-    <string name="reoccurence">Reoccurence</string>
-    <string name="re_ocurrence">Re-Occurrence</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="schedule">Schedule</string>
 </resources>

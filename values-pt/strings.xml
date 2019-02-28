@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders</b>
         <br/>\u2022Notas de alfinete e Lembretes para a barra de notificação.
@@ -52,4 +51,6 @@
     <string name="new_time">Novo tempo</string>
     <string name="active">Ativo</string>
     <string name="no_app_speech">Nenhum aplicativo instalado para lidar com reconhecimento de fala</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="schedule">Schedule</string>
 </resources>

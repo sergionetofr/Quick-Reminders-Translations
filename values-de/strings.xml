@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
         <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
@@ -21,7 +20,7 @@
     <string name="yes">Ja</string>
     <string name="send_report">Crash Report\nSenden</string>
     <string name="close_app">Clear\nError</string>
-    <string name="oops_error">Oops.... Sieht so aus, als ob etwas schief gelaufen wäre &amp; Quick Reminders Crashed! \n\n\nsorry for the unconvenience.</string>
+    <string name="oops_error">Oops.. Sieht so aus, als ob etwas schief gelaufen wäre &amp; Quick Reminders Crashed! \n\n\nsorry for the unconvenience.</string>
     <string name="dismiss">Verwerfen</string>
     <string name="newRem">Neue Notiz</string>
     <string name="sticky">Haftnotiz-Benachrichtigung</string>
@@ -52,4 +51,6 @@
     <string name="new_time">Neue Zeit</string>
     <string name="active">Aktiv</string>
     <string name="no_app_speech">Keine Anwendung zur Spracherkennung installiert</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="schedule">Schedule</string>
 </resources>

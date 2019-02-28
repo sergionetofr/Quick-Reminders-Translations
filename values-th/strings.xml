@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
         <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
@@ -52,4 +51,6 @@
     <string name="new_time">เวลาใหม่</string>
     <string name="active">คล่องแคล่ว</string>
     <string name="no_app_speech">ไม่ได้ติดตั้งแอปพลิเคชันเพื่อจัดการจดจำเสียงพูด</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="schedule">Schedule</string>
 </resources>
